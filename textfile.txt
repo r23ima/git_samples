@@ -1,0 +1,1 @@
+Hello rose, this is H7-COJ. A programmable bot that receives and sends random message via retro-active signal.
